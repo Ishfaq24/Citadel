@@ -12,19 +12,13 @@ const facilities = [
   { icon: Wind, label: "Air Conditioning" },
   { icon: Lock, label: "Personal Lockers" },
   { icon: Volume2, label: "Noise-Free Zone" },
-  { icon: Zap, label: "Charging Points" },
   { icon: Wifi, label: "Free High-Speed WiFi" },
-  { icon: PenTool, label: "Basic Stationery" },
   { icon: Coffee, label: "Refreshment Area" },
   { icon: Clock, label: "24/7 Access" },
-  { icon: Shield, label: "Security Measures" },
   { icon: Droplets, label: "Drinking Water" },
   { icon: BookOpen, label: "Private Study Cabins" },
   { icon: Cctv, label: "CCTV Surveillance" },
-  { icon: KeyRound, label: "Biometric Entry" },
-  { icon: Battery, label: "Power Backup" },
-  { icon: LocateFixed, label: "Flexible Seating" },
-  { icon: Users, label: "Group Study Rooms" },
+  { icon: Users, label: "Rest Room" },
 ];
 
 const Facilities = () => {
